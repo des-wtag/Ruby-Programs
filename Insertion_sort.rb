@@ -1,10 +1,12 @@
 
 
 #Algorithm
- #Sort an arr[] of size n
+#Sort an arr[] of size n
 #insertionSort(arr, n)
 #Loop from i = 1 to n-1.
- #    a) Pick element arr[i] and insert it into sorted sequence arr[0…i-1]
+#    a) Pick element arr[i] and insert it into sorted sequence arr[0…i-1]
+#complexity worst_case: O(n^2) , best_case: O(n)
+#Space complexity: O(n)
 
 
 
